@@ -1,0 +1,178 @@
+<!-- you will not work exept see my rules here as example 
+
+basecmd95.blogspot.com/2023/06/new-latest-guest-cookies-fix-all-menu.html
+
+--.
+
+
+
+
+
+<style> 
+    /* CSS code here */
+    .cookie-choices-info {
+      position: fixed;
+      left: 50%;
+      transform: translateX(-50%);
+      width: auto;
+      background-color: #F8F8F8;
+      padding: 10px;
+      border: 1px solid #CCCCCC;
+      border-radius: 5px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      z-index: 9999;
+      text-align: center;
+      color: #333333;
+      font-family: Arial, sans-serif;
+      line-height: 1.5;
+      /* Added animation properties */
+      animation: borderAnimation 2s infinite ease-in-out;
+    }
+
+    /* Define the animation */
+    @keyframes borderAnimation {
+      0% {
+        border-color: #CCCCCC;
+      }
+      50% {
+        border-color: #FF0000; /* Animated to red color */
+      }
+      100% {
+        border-color: #CCCCCC;
+      }
+    }
+
+    .cookie-choices-info .cookie-choices-text {
+      font-size: 14px;
+      margin-bottom: 10px;
+    }
+
+    .cookie-choices-info .cookie-choices-button {
+      background-color: transparent;
+      color: #FF0000;
+      padding: 6px 12px;
+      font-size: 12px;
+      border-radius: 3px;
+      border: none; /* Remove the border */
+    }
+
+    .cookie-choices-info .cookie-choices-button:hover {
+      background-color: #555555;
+    }
+
+    .cookie-choices-info .cookie-choices-close {
+      position: absolute;
+      top: 5px;
+      right: 5px;
+      color: #FFD700; /* Yellow color */
+      cursor: pointer;
+    }
+
+    .cookie-choices-info .cookie-choices-close:hover {
+      color: #FFD700; /* Yellow color on hover */
+    }
+
+    .fa.fa-close {
+      font-size: 14px;
+    }
+
+    @import url("//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+  </style>
+
+
+<html><head><meta name='google-adsense-platform-account' content='ca-host-pub-5512969797333702'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+
+<script type="text/javascript" language="javascript">
+  // Supply ads personalization default for EEA readers
+  // See https://www.blogger.com/go/adspersonalization
+  adsbygoogle = window.adsbygoogle || [];
+  if (typeof adsbygoogle.requestNonPersonalizedAds === 'undefined') {
+    adsbygoogle.requestNonPersonalizedAds = 1;
+  }
+</script>
+
+</head><body><style> 
+    /* CSS code here */
+    .cookie-choices-info {
+      position: fixed;
+      left: 50%;
+      transform: translateX(-50%);
+      width: auto;
+      background-color: #000000;
+      padding: 10px;
+      border: 1px solid #CCCCCC;
+      border-radius: 5px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      z-index: 9999;
+      text-align: center;
+      color: #333333;
+      font-family: Arial, sans-serif;
+      line-height: 1.5;
+      /* Added animation properties */
+      animation: borderAnimation 2s infinite ease-in-out;
+    }
+
+    /* Define the animation */
+    @keyframes borderAnimation {
+      0% {
+        border-color: #CCCCCC;
+      }
+      50% {
+        border-color: #FF0000; /* Animated to red color */
+      }
+      100% {
+        border-color: #CCCCCC;
+      }
+    }
+
+    .cookie-choices-info .cookie-choices-text {
+      font-size: 14px;
+      margin-bottom: 10px;
+    }
+
+    .cookie-choices-info .cookie-choices-button {
+      background-color: transparent;
+      color: #FF0000;
+      padding: 6px 12px;
+      font-size: 12px;
+      border-radius: 3px;
+      border: none; /* Remove the border */
+    }
+
+    .cookie-choices-info .cookie-choices-button:hover {
+      background-color: #555555;
+    }
+
+    .cookie-choices-info .cookie-choices-close {
+      position: absolute;
+      top: 5px;
+      right: 5px;
+      color: #FFD700; /* Yellow color */
+      cursor: pointer;
+    }
+
+    .cookie-choices-info .cookie-choices-close:hover {
+      color: #FFD700; /* Yellow color on hover */
+    }
+
+    .fa.fa-close {
+      font-size: 14px;
+    }
+
+    @import url("//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+  </style>
+
+<!-- 'Website Be equipped Google's Privacy Policy and Terms of Service apply, Our website uses cookies and analytic and all track of service to improve All experience, Don't Sell Your Personal Information, Respected By This Web No exception Whosoever Newcomer. https://basecmd95.blogspot.com/2023/06/privacy-policy-update-by-basecmd95.html.' -->
+<script src="/js/cookienotice.js" defer></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function(event) {
+    window.cookieChoices && cookieChoices.showCookieConsentBar && cookieChoices.showCookieConsentBar(
+        (window.cookieOptions && cookieOptions.msg) || 'Website Be equipped Google Privacy Policy and Terms of Service apply, Our website uses cookies and analytic and all track of service to improve All experience, Dont Sell Your Personal Information, Respected By This Web No exception Whosoever Newcomer.',
+        (window.cookieOptions && cookieOptions.close) || 'Ok|Close|Accepted',
+        (window.cookieOptions && cookieOptions.learn) || 'Learn More',
+        (window.cookieOptions && cookieOptions.link) || 'https://basecmd95.blogspot.com/2023/06/privacy-policy-update-by-basecmd95.html');
+  });
+</script>
+
+</body></html>
